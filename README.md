@@ -23,5 +23,5 @@ I am Gentrit Begaj a Full Stack Web Developer and Network Engineer.
 
 #### CV / Contact me
 
-- :paperclip: [My Resume/CV](https://github.com/GentritBegaj/GentritBegaj/master/resume/Gentrit_Begaj_CV.pdf)
+- :paperclip: [My Resume/CV](https://github.com/GentritBegaj/GentritBegaj/blob/master/resume/Gentrit_Begaj_CV.pdf)
 - :email: gentritbegaj@gmail.com
